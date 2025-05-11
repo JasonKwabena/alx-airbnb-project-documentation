@@ -1,6 +1,3 @@
-![use-case-diagram drawio](https://github.com/user-attachments/assets/b5660208-adc3-4785-a890-0eb387789ecb)
-
-
 # Use Case Diagram Documentation
 
 ## Actors
